@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/programmi-21-22/static/css/main.8a37f972.css",
+    "main.js": "/programmi-21-22/static/js/main.37f6ec17.js",
+    "static/media/logotipo.png": "/programmi-21-22/static/media/logotipo.61fdcc1c1c3461acd2de.png",
+    "static/media/search.svg": "/programmi-21-22/static/media/search.40e0ba2ae3a8683836dfaa4d77b473eb.svg",
+    "static/media/download.svg": "/programmi-21-22/static/media/download.b09efbef785b0b7eaaf16b5a843f8ddc.svg",
+    "index.html": "/programmi-21-22/index.html",
+    "main.8a37f972.css.map": "/programmi-21-22/static/css/main.8a37f972.css.map",
+    "main.37f6ec17.js.map": "/programmi-21-22/static/js/main.37f6ec17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a37f972.css",
+    "static/js/main.37f6ec17.js"
+  ]
+}

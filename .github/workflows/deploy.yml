@@ -20,10 +20,6 @@ concurrency:
   group: 'pages'
   cancel-in-progress: true
 
-strategy:
-  matrix:
-    node-version: ['18.x', '20.x']
-
 jobs:
   # Single deploy job since we're just deploying
   deploy:

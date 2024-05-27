@@ -6,6 +6,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 FOLDER_URL = os.getenv('FOLDER_URL')
+
+print(FOLDER_URL)
 resp = requests.get(FOLDER_URL)
 
 soup = BeautifulSoup(resp.text, features="html.parser")

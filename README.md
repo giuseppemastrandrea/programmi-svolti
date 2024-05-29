@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-Questo progetto è stato utilizzato per creare la lista di programmi svolti per l'a.s. 2021/2022 dell'ITT Panetti Pitagora di Bari. 
+Questo progetto è stato utilizzato per creare la lista di programmi svolti per l'a.s. 2023/2024 dell'ITT Panetti Pitagora di Bari. 
 
 È un'applicazione web formata da un'unica pagina con un campo di ricerca che filtra una serie di card. 
 L'applicazione è scritta in React partendo dallo scheletro di default di web-app che `create-react-app` mette a disposizione.

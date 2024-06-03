@@ -8,12 +8,87 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1A-Diritto-Piccolo.pdf"
   },
   {
+    "c": "1A ",
+    "name": " Italiano ",
+    "teachers": [
+      " GIORGIO Rosita"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1A%20-%20Italiano%20-%20GIORGIO%20Rosita.pdf"
+  },
+  {
+    "c": "1A",
+    "name": "Tecnologie Informatiche",
+    "teachers": [
+      "Di Tria",
+      "Mongelli"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1A-Tecnologie%20Informatiche-Di%20Tria-Mongelli.pdf"
+  },
+  {
+    "c": "1A",
+    "name": "storia",
+    "teachers": [
+      "GIORGIO Rosita"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1A-storia-GIORGIO%20Rosita.pdf"
+  },
+  {
     "c": "1B",
     "name": "Diritto",
     "teachers": [
       "Piccolo"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1B-Diritto-Piccolo.pdf"
+  },
+  {
+    "c": "1B",
+    "name": "Tecnologie Informatiche",
+    "teachers": [
+      "Di Tria",
+      "Mongelli"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1B-Tecnologie%20Informatiche-Di%20Tria-Mongelli.pdf"
+  },
+  {
+    "c": "1C",
+    "name": "Chimica e laboratorio",
+    "teachers": [
+      "Magrone.pdf"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1C-Chimica%20e%20laboratorio-Magrone.pdf.pdf"
+  },
+  {
+    "c": "1C",
+    "name": "Geografia",
+    "teachers": [
+      "Magrone.pdf"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1C-Geografia-Magrone.pdf.pdf"
+  },
+  {
+    "c": "1C",
+    "name": "Scienze della Terra",
+    "teachers": [
+      "Magrone.pdf"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1C-Scienze%20della%20Terra-Magrone.pdf.pdf"
+  },
+  {
+    "c": "1D",
+    "name": "Chimica e laboratorio",
+    "teachers": [
+      "Magrone.pdf (4)"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1D-Chimica%20e%20laboratorio-Magrone.pdf%20(4).pdf"
+  },
+  {
+    "c": "1E",
+    "name": "Tecnologie Informatiche",
+    "teachers": [
+      "De Gaetano",
+      "Curci (2)"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1E-Tecnologie%20Informatiche-De%20Gaetano-Curci%20(2).pdf"
   },
   {
     "c": "1G",
@@ -25,6 +100,24 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1G-TIC-decembrino-mongelli.pdf"
   },
   {
+    "c": "1H",
+    "name": "Tecnologie Informatiche",
+    "teachers": [
+      "Di Tria",
+      "Mongelli"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1H-Tecnologie%20Informatiche-Di%20Tria-Mongelli.pdf"
+  },
+  {
+    "c": "1I",
+    "name": "Tecnologie Informatiche",
+    "teachers": [
+      "Di Tria",
+      "Mongelli"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1I-Tecnologie%20Informatiche-Di%20Tria-Mongelli.pdf"
+  },
+  {
     "c": "2A",
     "name": "Diritto",
     "teachers": [
@@ -33,12 +126,134 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2A-Diritto-Piccolo.pdf"
   },
   {
+    "c": "2A",
+    "name": "italiano",
+    "teachers": [
+      "GIORGIO Rosita"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2A-italiano-GIORGIO%20Rosita.pdf"
+  },
+  {
+    "c": "2A",
+    "name": "storia",
+    "teachers": [
+      "GIORGIO Rosita"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2A-storia-GIORGIO%20Rosita.pdf"
+  },
+  {
     "c": "2B",
     "name": "Diritto",
     "teachers": [
       "Piccolo"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2B-Diritto-Piccolo.pdf"
+  },
+  {
+    "c": "2C",
+    "name": "Biologia",
+    "teachers": [
+      "Magrone.pdf"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2C-Biologia-Magrone.pdf.pdf"
+  },
+  {
+    "c": "2C",
+    "name": "Chimica e Laboratorio",
+    "teachers": [
+      "Magrone.pdf (2)"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2C-Chimica%20e%20Laboratorio-Magrone.pdf%20(2).pdf"
+  },
+  {
+    "c": "2D",
+    "name": "Biologia",
+    "teachers": [
+      "Magrone.pdf"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2D-Biologia-Magrone.pdf.pdf"
+  },
+  {
+    "c": "2D",
+    "name": "Chimica e Laboratorio",
+    "teachers": [
+      "Magrone"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2D-Chimica%20e%20Laboratorio-Magrone.pdf"
+  },
+  {
+    "c": "2E",
+    "name": "Inglese",
+    "teachers": [
+      "Barletta"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2E-Inglese-Barletta.pdf"
+  },
+  {
+    "c": "2E",
+    "name": "Italiano",
+    "teachers": [
+      "Cantore"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2E-Italiano-Cantore.pdf"
+  },
+  {
+    "c": "2E",
+    "name": "Scienze e Tecnologia Applicate",
+    "teachers": [
+      "De Gaetano"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2E-Scienze%20e%20Tecnologia%20Applicate-De%20Gaetano.pdf"
+  },
+  {
+    "c": "2E",
+    "name": "Storia",
+    "teachers": [
+      "Cantore"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2E-Storia-Cantore.pdf"
+  },
+  {
+    "c": "2F",
+    "name": "Storia",
+    "teachers": [
+      "Cantore"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2F-Storia-Cantore.pdf"
+  },
+  {
+    "c": "2G",
+    "name": "Chimica",
+    "teachers": [
+      "Adamo",
+      "DiLillo"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2G-Chimica-Adamo-DiLillo.pdf"
+  },
+  {
+    "c": "2H",
+    "name": "Scienze e Tecnologie Applicate",
+    "teachers": [
+      "Di Tria"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2H-Scienze%20e%20Tecnologie%20Applicate-Di%20Tria.pdf"
+  },
+  {
+    "c": "2I",
+    "name": "Chimica",
+    "teachers": [
+      "Adamo",
+      "Avellis"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2I-Chimica-Adamo-Avellis.pdf"
+  },
+  {
+    "c": "2I",
+    "name": "Scienze e Tecnologie Applicate",
+    "teachers": [
+      "Di Tria"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2I-Scienze%20e%20Tecnologie%20Applicate-Di%20Tria.pdf"
   },
   {
     "c": "3ITCAA",
@@ -57,6 +272,40 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITCAB-GEE-STALLONE.pdf"
   },
   {
+    "c": "3ITCAB",
+    "name": "Gestione del Cantiere",
+    "teachers": [
+      "Pirro"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITCAB-Gestione%20del%20Cantiere-Pirro.pdf"
+  },
+  {
+    "c": "3ITCM",
+    "name": "Inglese",
+    "teachers": [
+      "Barletta"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITCM-Inglese-Barletta.pdf"
+  },
+  {
+    "c": "3ITCM",
+    "name": "Tecnologiechimiche",
+    "teachers": [
+      "Adamo",
+      "Renna"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITCM-Tecnologiechimiche-Adamo-Renna.pdf"
+  },
+  {
+    "c": "3ITIAB",
+    "name": "Informatica",
+    "teachers": [
+      "Tamporra",
+      "Mongelli"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITIAB-Informatica-Tamporra-Mongelli.pdf"
+  },
+  {
     "c": "3ITIAB",
     "name": "sistemi",
     "teachers": [
@@ -64,6 +313,15 @@
       "mizzi"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITIAB-sistemi-decembrino-mizzi.pdf"
+  },
+  {
+    "c": "3ITIAC",
+    "name": "Informatica",
+    "teachers": [
+      "De Gaetano",
+      "Curci (3)"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITIAC-Informatica-De%20Gaetano-Curci%20(3).pdf"
   },
   {
     "c": "3ITIAC",
@@ -75,12 +333,59 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITIAC-SistemiEreti-Sacchetti-Tandoi.pdf"
   },
   {
+    "c": "4ITCAA",
+    "name": "Gestione del Cantiere",
+    "teachers": [
+      "Pirro"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITCAA-Gestione%20del%20Cantiere-Pirro.pdf"
+  },
+  {
     "c": "4ITCAB",
     "name": "GEE",
     "teachers": [
       "STALLONE"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITCAB-GEE-STALLONE.pdf"
+  },
+  {
+    "c": "4ITCAB",
+    "name": "Topografia",
+    "teachers": [],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITCAB-Topografia.pdf"
+  },
+  {
+    "c": "4ITCM",
+    "name": "Inglese",
+    "teachers": [
+      "Barletta"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITCM-Inglese-Barletta.pdf"
+  },
+  {
+    "c": "4ITCM",
+    "name": "Tecnologiechimiche",
+    "teachers": [
+      "Adamo",
+      "Renna"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITCM-Tecnologiechimiche-Adamo-Renna.pdf"
+  },
+  {
+    "c": "4ITEC",
+    "name": "Italiano",
+    "teachers": [
+      "Cantore"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITEC-Italiano-Cantore.pdf"
+  },
+  {
+    "c": "4ITEC",
+    "name": "Storia",
+    "teachers": [
+      "Cantore"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITEC-Storia-Cantore.pdf"
   },
   {
     "c": "4ITIAA",
@@ -90,6 +395,15 @@
       "Tandoi"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITIAA-TPSIT-Sacchetti-Tandoi.pdf"
+  },
+  {
+    "c": "4ITIAB",
+    "name": "Informatica",
+    "teachers": [
+      "Tamporra",
+      "Tandoi"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITIAB-Informatica-Tamporra-Tandoi.pdf"
   },
   {
     "c": "4ITIAB",
@@ -108,6 +422,81 @@
       "Botta"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITIAB-TPSIT-Sacchetti-Botta.pdf"
+  },
+  {
+    "c": "5ITCA",
+    "name": "A",
+    "teachers": [
+      "Italiano",
+      "GIORGIO Rosita"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5ITCA-A-Italiano-GIORGIO%20Rosita.pdf"
+  },
+  {
+    "c": "5ITCA",
+    "name": "A",
+    "teachers": [
+      "Storia",
+      "GIORGIO Rosita"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5ITCA-A-Storia-GIORGIO%20Rosita.pdf"
+  },
+  {
+    "c": "5ITCAA",
+    "name": "Gestione del Cantiere",
+    "teachers": [
+      "Pirro"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5ITCAA-Gestione%20del%20Cantiere-Pirro.pdf"
+  },
+  {
+    "c": "5ITCAB",
+    "name": "Gestione del Cantiere",
+    "teachers": [
+      "Pirro"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5ITCAB-Gestione%20del%20Cantiere-Pirro.pdf"
+  },
+  {
+    "c": "5ITCAB",
+    "name": "Topografia",
+    "teachers": [
+      "Pirro"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5ITCAB-Topografia-Pirro.pdf"
+  },
+  {
+    "c": "5ITCM",
+    "name": "Inglese",
+    "teachers": [
+      "Barletta"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5ITCM-Inglese-Barletta.pdf"
+  },
+  {
+    "c": "5ITCM",
+    "name": "Tecnologiechimiche",
+    "teachers": [
+      "Adamo",
+      "Renna"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5ITCM-Tecnologiechimiche-Adamo-Renna.pdf"
+  },
+  {
+    "c": "5ITEC",
+    "name": "Inglese",
+    "teachers": [
+      "Barletta"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5ITEC-Inglese-Barletta.pdf"
+  },
+  {
+    "c": "./5ITET:S",
+    "name": "Inglese",
+    "teachers": [
+      "Barletta"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/./5ITET:S-Inglese-Barletta.pdf"
   },
   {
     "c": "5ITIA",
@@ -137,6 +526,23 @@
       "Tandoi"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5ITIAA-SistemiEreti-Sacchetti-Tandoi.pdf"
+  },
+  {
+    "c": "5ITIAB",
+    "name": "Informatica",
+    "teachers": [
+      "Tamporra"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5ITIAB-Informatica-Tamporra.pdf"
+  },
+  {
+    "c": "5ITIAC",
+    "name": "Informatica",
+    "teachers": [
+      "De Gaetano",
+      "Curci (4)"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5ITIAC-Informatica-De%20Gaetano-Curci%20(4).pdf"
   },
   {
     "c": "5ITIAC",

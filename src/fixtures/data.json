@@ -17,6 +17,14 @@
   },
   {
     "c": "1A",
+    "name": "ScienzeMotorie",
+    "teachers": [
+      "Damasco"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1A-ScienzeMotorie-Damasco.pdf"
+  },
+  {
+    "c": "1A",
     "name": "Tecnologie Informatiche",
     "teachers": [
       "Di Tria",
@@ -41,6 +49,22 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1B-Diritto-Piccolo.pdf"
   },
   {
+    "c": "1B ",
+    "name": " MATEMATICA ",
+    "teachers": [
+      " MASTROMATTEO"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1B%20-%20MATEMATICA%20-%20MASTROMATTEO.pdf"
+  },
+  {
+    "c": "1B",
+    "name": "TTRG",
+    "teachers": [
+      "Cinquepalmi.pdf "
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1B-TTRG-Cinquepalmi.pdf%20.pdf"
+  },
+  {
     "c": "1B",
     "name": "Tecnologie Informatiche",
     "teachers": [
@@ -59,6 +83,14 @@
   },
   {
     "c": "1C",
+    "name": "Fisica",
+    "teachers": [
+      "SCARCIGLIA"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1C-Fisica-SCARCIGLIA.pdf"
+  },
+  {
+    "c": "1C",
     "name": "Geografia",
     "teachers": [
       "Magrone.pdf"
@@ -74,12 +106,85 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1C-Scienze%20della%20Terra-Magrone.pdf.pdf"
   },
   {
+    "c": "1C",
+    "name": "TTRG",
+    "teachers": [
+      "Cinquepalmi.pdf"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1C-TTRG-Cinquepalmi.pdf.pdf"
+  },
+  {
     "c": "1D",
     "name": "Chimica e laboratorio",
     "teachers": [
       "Magrone.pdf (4)"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1D-Chimica%20e%20laboratorio-Magrone.pdf%20(4).pdf"
+  },
+  {
+    "c": "1D",
+    "name": "Fisica",
+    "teachers": [
+      "SCARCIGLIA"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1D-Fisica-SCARCIGLIA.pdf"
+  },
+  {
+    "c": "1D",
+    "name": "Matematica",
+    "teachers": [
+      "Abundo"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1D-Matematica-Abundo.pdf"
+  },
+  {
+    "c": "1D",
+    "name": "TTRG",
+    "teachers": [
+      "Giacomobello",
+      "Magrino"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1D-TTRG-Giacomobello-Magrino.pdf"
+  },
+  {
+    "c": "1E",
+    "name": "Fisica",
+    "teachers": [
+      "SCARCIGLIA"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1E-Fisica-SCARCIGLIA.pdf"
+  },
+  {
+    "c": "1E",
+    "name": "Italiano",
+    "teachers": [
+      "Soldo"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1E-Italiano-Soldo.pdf"
+  },
+  {
+    "c": "1E",
+    "name": "Matematica",
+    "teachers": [
+      "Abundo"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1E-Matematica-Abundo.pdf"
+  },
+  {
+    "c": "1E",
+    "name": "ScienzeMotorie",
+    "teachers": [
+      "Damasco"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1E-ScienzeMotorie-Damasco.pdf"
+  },
+  {
+    "c": "1E",
+    "name": "Storia",
+    "teachers": [
+      "Soldo"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1E-Storia-Soldo.pdf"
   },
   {
     "c": "1E",
@@ -89,6 +194,62 @@
       "Curci (2)"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1E-Tecnologie%20Informatiche-De%20Gaetano-Curci%20(2).pdf"
+  },
+  {
+    "c": "1F",
+    "name": "Fisica",
+    "teachers": [
+      "Intonti"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1F-Fisica-Intonti.pdf"
+  },
+  {
+    "c": "1F",
+    "name": "Italiano",
+    "teachers": [
+      "Ruberto"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1F-Italiano-Ruberto.pdf"
+  },
+  {
+    "c": "1F",
+    "name": "Matematica",
+    "teachers": [
+      "Abundo"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1F-Matematica-Abundo.pdf"
+  },
+  {
+    "c": "1F",
+    "name": "ScienzeMotorie",
+    "teachers": [
+      "Damasco"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1F-ScienzeMotorie-Damasco.pdf"
+  },
+  {
+    "c": "1F",
+    "name": "Storia",
+    "teachers": [
+      "Ruberto"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1F-Storia-Ruberto.pdf"
+  },
+  {
+    "c": "1G",
+    "name": "Fisica",
+    "teachers": [
+      "Intonti"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1G-Fisica-Intonti.pdf"
+  },
+  {
+    "c": "1G",
+    "name": "Matematica",
+    "teachers": [
+      "Piarulli"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1G-Matematica-Piarulli.pdf"
   },
   {
     "c": "1G",
@@ -101,12 +262,52 @@
   },
   {
     "c": "1H",
+    "name": "Fisica",
+    "teachers": [
+      "Intonti"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1H-Fisica-Intonti.pdf"
+  },
+  {
+    "c": "1H",
+    "name": "Italiano",
+    "teachers": [
+      "De Giglio"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1H-Italiano-De%20Giglio.pdf"
+  },
+  {
+    "c": "1H",
+    "name": "Storia",
+    "teachers": [
+      "De Giglio"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1H-Storia-De%20Giglio.pdf"
+  },
+  {
+    "c": "1H",
     "name": "Tecnologie Informatiche",
     "teachers": [
       "Di Tria",
       "Mongelli"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1H-Tecnologie%20Informatiche-Di%20Tria-Mongelli.pdf"
+  },
+  {
+    "c": "1I",
+    "name": "Fisica",
+    "teachers": [
+      "Intonti"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1I-Fisica-Intonti.pdf"
+  },
+  {
+    "c": "1I",
+    "name": "Italiano e Storia",
+    "teachers": [
+      " Genovese"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/1I-Italiano%20e%20Storia-%20Genovese.pdf"
   },
   {
     "c": "1I",
@@ -124,6 +325,14 @@
       "Piccolo"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2A-Diritto-Piccolo.pdf"
+  },
+  {
+    "c": "2A",
+    "name": "STA",
+    "teachers": [
+      "Cinquepalmi"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2A-STA-Cinquepalmi.pdf"
   },
   {
     "c": "2A",
@@ -150,6 +359,30 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2B-Diritto-Piccolo.pdf"
   },
   {
+    "c": "2B",
+    "name": "MATEMATICA",
+    "teachers": [
+      "Mastromatteo"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2B-MATEMATICA-Mastromatteo.pdf"
+  },
+  {
+    "c": "2B",
+    "name": "STA",
+    "teachers": [
+      "Cinquepalmi"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2B-STA-Cinquepalmi.pdf"
+  },
+  {
+    "c": "2B",
+    "name": "TTRG",
+    "teachers": [
+      "Cinquepalmi.pdf"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2B-TTRG-Cinquepalmi.pdf.pdf"
+  },
+  {
     "c": "2C",
     "name": "Biologia",
     "teachers": [
@@ -166,6 +399,22 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2C-Chimica%20e%20Laboratorio-Magrone.pdf%20(2).pdf"
   },
   {
+    "c": "2C",
+    "name": "Fisica",
+    "teachers": [
+      "SCARCIGLIA"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2C-Fisica-SCARCIGLIA.pdf"
+  },
+  {
+    "c": "2C",
+    "name": "TTRG",
+    "teachers": [
+      "Cinquepalmi"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2C-TTRG-Cinquepalmi.pdf"
+  },
+  {
     "c": "2D",
     "name": "Biologia",
     "teachers": [
@@ -180,6 +429,39 @@
       "Magrone"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2D-Chimica%20e%20Laboratorio-Magrone.pdf"
+  },
+  {
+    "c": "2D",
+    "name": "Fisica",
+    "teachers": [
+      "SCARCIGLIA"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2D-Fisica-SCARCIGLIA.pdf"
+  },
+  {
+    "c": "2D",
+    "name": "Matematica",
+    "teachers": [
+      "Abundo"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2D-Matematica-Abundo.pdf"
+  },
+  {
+    "c": "2D",
+    "name": "TTRG",
+    "teachers": [
+      "Giacomobello",
+      "Magrino"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2D-TTRG-Giacomobello-Magrino.pdf"
+  },
+  {
+    "c": "2E",
+    "name": "Fisica",
+    "teachers": [
+      "SCARCIGLIA"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2E-Fisica-SCARCIGLIA.pdf"
   },
   {
     "c": "2E",
@@ -214,6 +496,30 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2E-Storia-Cantore.pdf"
   },
   {
+    "c": "2F ",
+    "name": " Chimica ",
+    "teachers": [
+      " Pedone"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2F%20-%20Chimica%20-%20Pedone.pdf"
+  },
+  {
+    "c": "2F",
+    "name": "Fisica",
+    "teachers": [
+      "Intonti"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2F-Fisica-Intonti.pdf"
+  },
+  {
+    "c": "2F",
+    "name": "Italiano",
+    "teachers": [
+      "Ruberto"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2F-Italiano-Ruberto.pdf"
+  },
+  {
     "c": "2F",
     "name": "Storia",
     "teachers": [
@@ -231,12 +537,52 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2G-Chimica-Adamo-DiLillo.pdf"
   },
   {
+    "c": "2G",
+    "name": " Fisica",
+    "teachers": [
+      "Intonti"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2G-%20Fisica-Intonti.pdf"
+  },
+  {
+    "c": "2G",
+    "name": "ScienzeMotorie",
+    "teachers": [
+      "Damasco"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2G-ScienzeMotorie-Damasco.pdf"
+  },
+  {
+    "c": "2H ",
+    "name": " Chimica ",
+    "teachers": [
+      " Pedone"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2H%20-%20Chimica%20-%20Pedone.pdf"
+  },
+  {
+    "c": "2H",
+    "name": "Italiano",
+    "teachers": [
+      "De Giglio"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2H-Italiano-De%20Giglio.pdf"
+  },
+  {
     "c": "2H",
     "name": "Scienze e Tecnologie Applicate",
     "teachers": [
       "Di Tria"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2H-Scienze%20e%20Tecnologie%20Applicate-Di%20Tria.pdf"
+  },
+  {
+    "c": "2H",
+    "name": "Storia",
+    "teachers": [
+      "De Giglio"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2H-Storia-De%20Giglio.pdf"
   },
   {
     "c": "2I",
@@ -249,11 +595,36 @@
   },
   {
     "c": "2I",
+    "name": "Italiano",
+    "teachers": [
+      "De Giglio"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2I-Italiano-De%20Giglio.pdf"
+  },
+  {
+    "c": "2I",
     "name": "Scienze e Tecnologie Applicate",
     "teachers": [
       "Di Tria"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2I-Scienze%20e%20Tecnologie%20Applicate-Di%20Tria.pdf"
+  },
+  {
+    "c": "2I",
+    "name": "Storia",
+    "teachers": [
+      "De Giglio"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2I-Storia-De%20Giglio.pdf"
+  },
+  {
+    "c": "2I",
+    "name": "TTRG",
+    "teachers": [
+      "Giacomobello",
+      "Magrino"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/2I-TTRG-Giacomobello-Magrino.pdf"
   },
   {
     "c": "3ITCAA",
@@ -280,6 +651,22 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITCAB-Gestione%20del%20Cantiere-Pirro.pdf"
   },
   {
+    "c": "3ITCAB ",
+    "name": " MATEMATICA ",
+    "teachers": [
+      " MASTROMATTEO"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITCAB%20-%20MATEMATICA%20-%20MASTROMATTEO.pdf"
+  },
+  {
+    "c": "3ITCM ",
+    "name": " Chimica organica ",
+    "teachers": [
+      " Pedone"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITCM%20-%20Chimica%20organica%20-%20Pedone.pdf"
+  },
+  {
     "c": "3ITCM",
     "name": "Inglese",
     "teachers": [
@@ -289,12 +676,44 @@
   },
   {
     "c": "3ITCM",
+    "name": "Italiano",
+    "teachers": [
+      "Soldo"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITCM-Italiano-Soldo.pdf"
+  },
+  {
+    "c": "3ITCM",
+    "name": "Storia",
+    "teachers": [
+      "Soldo"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITCM-Storia-Soldo.pdf"
+  },
+  {
+    "c": "3ITCM",
     "name": "Tecnologiechimiche",
     "teachers": [
       "Adamo",
       "Renna"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITCM-Tecnologiechimiche-Adamo-Renna.pdf"
+  },
+  {
+    "c": "3ITEC",
+    "name": "Italiano",
+    "teachers": [
+      "Soldo"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITEC-Italiano-Soldo.pdf"
+  },
+  {
+    "c": "3ITEC",
+    "name": "Storia",
+    "teachers": [
+      "Soldo"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITEC-Storia-Soldo.pdf"
   },
   {
     "c": "3ITIAB",
@@ -333,6 +752,40 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITIAC-SistemiEreti-Sacchetti-Tandoi.pdf"
   },
   {
+    "c": "3ITIC",
+    "name": " Italiano e Storia ",
+    "teachers": [
+      " Genovese"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3ITIC-%20Italiano%20e%20Storia%20-%20Genovese.pdf"
+  },
+  {
+    "c": "3^ ITIAA",
+    "name": " TELECOMUNICAZIONI Genco",
+    "teachers": [],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3%5e%20ITIAA-%20TELECOMUNICAZIONI%20Genco.pdf"
+  },
+  {
+    "c": "3^ ITIAB",
+    "name": " TELECOMUNICAZIONI Genco",
+    "teachers": [],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3%5e%20ITIAB-%20TELECOMUNICAZIONI%20Genco.pdf"
+  },
+  {
+    "c": "3^ ITIAC",
+    "name": " TELECOMUNICAZIONI Genco",
+    "teachers": [],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3%5e%20ITIAC-%20TELECOMUNICAZIONI%20Genco.pdf"
+  },
+  {
+    "c": "3itiaA",
+    "name": "Informatica",
+    "teachers": [
+      "Sannicandro"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/3itiaA-Informatica-Sannicandro.pdf"
+  },
+  {
     "c": "4ITCAA",
     "name": "Gestione del Cantiere",
     "teachers": [
@@ -349,10 +802,26 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITCAB-GEE-STALLONE.pdf"
   },
   {
+    "c": "4ITCAB ",
+    "name": " MATEMATICA ",
+    "teachers": [
+      " MASTROMATTEO"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITCAB%20-%20MATEMATICA%20-%20MASTROMATTEO.pdf"
+  },
+  {
     "c": "4ITCAB",
     "name": "Topografia",
     "teachers": [],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITCAB-Topografia.pdf"
+  },
+  {
+    "c": "4ITCM ",
+    "name": " Chimica organica ",
+    "teachers": [
+      " Pedone"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITCM%20-%20Chimica%20organica%20-%20Pedone.pdf"
   },
   {
     "c": "4ITCM",
@@ -407,6 +876,14 @@
   },
   {
     "c": "4ITIAB",
+    "name": "Matematica",
+    "teachers": [
+      "Piarulli"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITIAB-Matematica-Piarulli.pdf"
+  },
+  {
+    "c": "4ITIAB",
     "name": "Sistemi",
     "teachers": [
       "Decembrino",
@@ -422,6 +899,28 @@
       "Botta"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4ITIAB-TPSIT-Sacchetti-Botta.pdf"
+  },
+  {
+    "c": "4^ ITET",
+    "name": "Programma TPSEE",
+    "teachers": [
+      " Genco"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4%5e%20ITET-Programma%20TPSEE-%20Genco.pdf"
+  },
+  {
+    "c": "4^ ITIAA",
+    "name": " TELECOMUNICAZIONI Genco",
+    "teachers": [],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4%5e%20ITIAA-%20TELECOMUNICAZIONI%20Genco.pdf"
+  },
+  {
+    "c": "4itiaa",
+    "name": "Informatica",
+    "teachers": [
+      "Sannicandro"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/4itiaa-Informatica-Sannicandro.pdf"
   },
   {
     "c": "5ITCA",
@@ -466,6 +965,14 @@
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5ITCAB-Topografia-Pirro.pdf"
   },
   {
+    "c": "5 ITCM ",
+    "name": " Chimica organica ",
+    "teachers": [
+      " Pedone Dilillo"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5%20ITCM%20-%20Chimica%20organica%20-%20Pedone%20Dilillo.pdf"
+  },
+  {
     "c": "5ITCM",
     "name": "Inglese",
     "teachers": [
@@ -489,6 +996,22 @@
       "Barletta"
     ],
     "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5ITEC-Inglese-Barletta.pdf"
+  },
+  {
+    "c": "5 ITET",
+    "name": "Italiano",
+    "teachers": [
+      "Ruberto"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5%20ITET-Italiano-Ruberto.pdf"
+  },
+  {
+    "c": "5 ITET",
+    "name": "Storia",
+    "teachers": [
+      "Ruberto"
+    ],
+    "href": "https://www.panettipitagora.edu.it/wp/programmi-svolti/5%20ITET-Storia-Ruberto.pdf"
   },
   {
     "c": "./5ITET:S",

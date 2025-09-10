@@ -28,12 +28,12 @@ function App() {
       <div className="container">
         <div className="title">
           <h1>
-            Programmi Svolti a.s. 2023/24
+            Programmi Svolti a.s. 2024/25
           </h1>
         </div>
         <div className="description">
           <p>
-            In questa pagina potrai trovare i programmi svolti per tutte le materie relative all'anno scolastico 2023/24. 
+            In questa pagina potrai trovare i programmi svolti per tutte le materie relative all'anno scolastico 2024/25.
           </p>
           <h2>
             Utilizza il campo di testo per cercare il programma che ti interessa
@@ -54,12 +54,12 @@ function App() {
           <div className="inputWrapper">
             <img src={search} alt="Search" />
             <div className="inputField">
-              <input 
-                type="text" 
-                placeholder="Inserisci classe, materia o nome del docente" 
+              <input
+                type="text"
+                placeholder="Inserisci classe, materia o nome del docente"
                 value={searchText}
                 onChange={({ target }) => setSearchText(target.value)}
-                />
+              />
               <div className="line"></div>
             </div>
           </div>
